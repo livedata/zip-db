@@ -1,0 +1,6 @@
+{
+	"importFilePath": "./import/spispna-cz1.txt",
+	"mongodb": {
+		"host": "localhost"
+	}
+}
